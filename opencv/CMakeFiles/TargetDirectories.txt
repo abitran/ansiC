@@ -1,0 +1,3 @@
+/Users/abitran/coding/c/opencv/CMakeFiles/edit_cache.dir
+/Users/abitran/coding/c/opencv/CMakeFiles/rebuild_cache.dir
+/Users/abitran/coding/c/opencv/CMakeFiles/videotest.dir
